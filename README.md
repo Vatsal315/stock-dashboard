@@ -148,10 +148,4 @@ Default stocks tracked:
 
 This project is open source and available under the [MIT License](LICENSE).
 
-## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome!
-
-## 📞 Contact
-
-Built as part of a coding challenge demonstrating modern React development practices.
