@@ -4,7 +4,7 @@ A modern, responsive stock price dashboard built with React, TypeScript, and Tai
 
 ## 🚀 Live Demo
 
-[View Live Dashboard](https://your-deployment-url.vercel.app)
+[View Live Dashboard](https://stock-dashboard-flax-seven.vercel.app/)
 
 ## ✨ Features
 
